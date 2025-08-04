@@ -1,0 +1,14 @@
+streamlit 
+pandas 
+numpy 
+scikit-learn
+
+datetime
+matplotlib
+seaborn
+
+openai
+plotly
+ 
+openpyxl
+dotenv
